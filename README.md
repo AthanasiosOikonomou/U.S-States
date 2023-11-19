@@ -16,10 +16,21 @@ iii. 50_states is the csv we will use to check if it is a correct guess.
 - If you are using windows 11/ visual studio code as me you need first to open the terminal and write the following lines:
     i) python -m venv myenv
     ii) myenv/Scripts/activate
+    iii) pip install pandas
+  
+- You ready to run the code.
   
 ## Notes
 1) To exit the game just write 'exit' as a answer.
 2) After you exit the game a new csv file with name 'states_to_learn' will be created with all the states you missed.
+
+## Sample Photos
+
+![image](https://github.com/Consouldenature/U.S-States/assets/87909481/fea88a62-c4d1-4384-843b-bb82cd60f04c)
+
+After giving 'Alabama' as answer:
+
+![image](https://github.com/Consouldenature/U.S-States/assets/87909481/6fcff1b4-57d4-4ea3-928a-c1b78cee693f)
 
 ## Acknowledgments
 
